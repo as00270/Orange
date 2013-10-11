@@ -212,8 +212,9 @@ StTooltip StLabel {
     background-gradient-end: rgba(22,22,22,0.9);
     border: .16em rgba(255,163,0,1);
 }
-.popup-submenu-menu-item-triangle {
-    font-size: 110%;
+.popup-submenu-menu-item-triangle,
+.unicode-arrow {
+    font-size: 120%;
 }
 .popup-submenu-menu-item:open {
     background-color: rgba(22,22,22,0.15); /*14.08 */
@@ -282,7 +283,7 @@ StTooltip StLabel {
 .popup-menu-item:ltr {
     padding: .25em 1em .25em .5em;
 }
-*/
+
 .popup-menu-item:rtl {
     padding: .25em .5em .25em 1em;
 }
@@ -480,7 +481,13 @@ StTooltip StLabel {
 }
  .panel-button {
 	border-radius: .2em;/*26.09*/
+    padding: .16em 1em; /*11.10*/
+    color: white;
 }
+.panel-button:active, .panel-button:checked {
+    color: #ffa300; /*11.10*/
+}
+
 #panel.unlock-screen .panel-button:hover,
 #panel.lock-screen .panel-button:hover,
 #panel.login-screen .panel-button:hover{
@@ -721,7 +728,7 @@ StTooltip StLabel {
 .panel-button:active #appMenuIcon,
 .panel-button:checked #appMenuIcon,
 .panel-button:focus #appMenuIcon {
-    app-icon-bottom-clip: .1em; /*30.05 */
+    app-icon-bottom-clip: .08em; /*30.05 */
 }
 
 .app-menu-icon {
@@ -735,7 +742,7 @@ StTooltip StLabel {
 	-natutal-vpadding: .06em;
     text-shadow: rgba(11,11,11,0.9) 0em .1em 0em;
 	color: rgba(255,255,255,0.7); /*12.08*/
-    border: .16em rgba(255,163,0,0); /*29.07*/
+    border: .08em rgba(255,163,0,0); /*11.10*/
 	border-radius: .24em; /*03.08*/
     transition-duration: 50ms; /* 18.05*/
 }
@@ -744,12 +751,14 @@ StTooltip StLabel {
 #panel.lock-screen .panel-button,
 #panel.login-screen .panel-button {
     color: #dddddd;
+    border: .08em rgba(255,163,0,0); /*29.07*/
 }
 
 #panel.unlock-screen .panel-button:active,
 #panel.login-screen .panel-button:active,
 #panel.lock-screen .panel-button:active {
     color: rgba(255,200,55,1);
+    border: .08em rgba(255,163,0,1); /*11.09*/
 }
 
 #panel.unlock-screen .panel-button:hover,
@@ -757,8 +766,12 @@ StTooltip StLabel {
 #panel.login-screen .panel-button:hover,
 #panel.unlock-screen .panel-button:focus,
 #panel.lock-screen .panel-button:focus,
-#panel.login-screen .panel-button:focus {
+#panel.login-screen .panel-button:focus,
+#panel.unlock-screen .panel-button:active,
+#panel.lock-screen .panel-button:active,
+#panel.login-screen .panel-button:active, {
     color: rgba(255,255,255,1);
+    border: .08em rgba(255,163,0,1); /*11.09*/
 }
 
 .panel-button:hover {
@@ -774,7 +787,11 @@ StTooltip StLabel {
     border: .08em rgba(255,163,0,1):
     transition-duration: 50ms;
 }
-
+.panel-button:active > .system-status-icon,
+.panel-button:checked > .system-status-icon,
+.panel-button:focus > .system-status-icon {
+    icon-shadow: black 0em .08em .08em;
+}
 #statusTray > .panel-button:active,
 #statusTray > .panel-button:checked,
 #statusTray > .panel-button:focus {
@@ -795,6 +812,7 @@ StTooltip StLabel {
     border-radius-topleft: 0em;
     border-radius-bottomleft: 0em;
 }
+
 .lock-screen-status-button-box,
 .panel-status-indicators-box,
 .panel-status-menu-box,
@@ -825,7 +843,7 @@ StTooltip StLabel {
 
 .system-status-icon {
     icon-size: 1.09em;
-    padding: 0em .2em;
+    padding: 0em .33em;
 }
 .aggregate-menu {
     width: 23.6em; /*11.09*/
@@ -887,8 +905,6 @@ StTooltip StLabel {
 .status-chooser-user-icon {
     border: .16em transparent; /*30.07*/
     border-radius: .31em;
-    width: 3em;
-    height: 3em;/*16.08*/
     background-size: contain;
     transition-duration: 50ms;
 }
@@ -1002,13 +1018,12 @@ padding: .31em;
 .window-close, 
 .notification-close {
     background-image: url("close-window.svg");
-    background-size: 2em;
-    height: 2em;
-    width: 2em;
+    background-size: 2.2em;
+    width: 2.2em;
 }
 
 .window-close {
-    -shell-close-overlap: 3.1em;
+    -shell-close-overlap: 1.1em;
 }
 
 .window-clone-border {
@@ -1108,7 +1123,6 @@ padding: .31em;
 #viewSelector {
     spacing: 1em;
     padding: .25em;
-    font-size: 10pt;
 }
 
 #viewSelectorTabBar {
@@ -1854,10 +1868,15 @@ box-shadow: inset 0em .1em .1em rgba(11,11,11,0.9);
 }
 
 .events-header-vbox {
-    spacing: 11px;
+    spacing: .5em;
     padding-top: 0.3em;
  padding-right: .5em;
 }
+.events-header-vbox:rtl {
+    padding-right: 0em;
+    padding-left: 1.5em;
+ }
+
 .events-table {
     width: 25em;
     spacing-columns: .6em;
@@ -1865,11 +1884,11 @@ box-shadow: inset 0em .1em .1em rgba(11,11,11,0.9);
 }
 
 .events-header {
-    height: 40px;
+    height: 2.5em;
 }
 
 .events-header-hbox {
-    spacing: 8px;
+    spacing: .5em;
     padding: 0.3em 0.3em;
 }
 
@@ -1924,12 +1943,12 @@ font-weight: bold;
 
 .events-time-box {
     min-width: 4em;
-    padding-right: 1em;
+    padding-right: .8em;
 }
 
 .events-time-box:rtl {
     padding-right: 0em;
-    padding-left: 1em;
+    padding-left: .8em;
 }
 .events-event-box {
 }
@@ -2232,7 +2251,7 @@ padding-bottom: .25em; /*17.08*/
 }
 
 .chat-notification-scrollview{
-	max-height: 25em;
+    max-height: 25em;
 }
 
 .subscription-message {
@@ -3063,11 +3082,11 @@ padding-bottom: .25em; /*17.08*/
 }
 
 .login-dialog-banner {
-    font-size: 11pt;
-    font-weight: bold;
+    font-size: 12pt;
+    font-weight: normal;
     text-align: center;
     color: #666666;
-    padding-bottom: 1em;
+    padding-bottom: 2em;
 }
 
 .login-dialog-title {
@@ -3122,7 +3141,7 @@ padding-bottom: .25em; /*17.08*/
 }
 
 .login-dialog-user-list:expanded .login-dialog-user-list-item {
-    color: #666666;
+    color: #999999; /*11.10*/
 }
 
 .login-dialog-user-list-item,
@@ -3358,7 +3377,7 @@ padding-bottom: .25em; /*17.08*/
 }
 
 .screen-shield-background {
-    background: rgba(22,22,22,0.7); /*12.06*/
+    background: rgba(22,22,22,0.8); /*12.06*/
     border-radius: .75em; /*31.05*/
     box-shadow: 0em .16em .16em rgba(11,11,11,0.9);
 }
@@ -3374,9 +3393,9 @@ padding-bottom: .25em; /*17.08*/
 
 .screen-shield-arrows Gjs_Arrow {
     color: rgba(255,163,0,1); /* 31.05 */
-    width: 7em;
-    height: 6em;
-    -arrow-thickness: .75em;/* 25.07*/
+    width: 4em;
+    height: 4em;
+    -arrow-thickness: 1em;/* 25.07*/
     -arrow-shadow: 0 .16em .1em rgba(11,11,11,0.4);
 }
 
