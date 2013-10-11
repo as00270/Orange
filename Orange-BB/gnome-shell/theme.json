@@ -1,0 +1,10 @@
+{ 
+   "shell-theme": {
+   "name": "Darkair-BB", 
+   "author": "Serge Wagner aka as00270", 
+   "version": "3.10rc2",
+   "type":   "custom",
+   "thumbnail": "preview.jpg", 
+   "url": "http://gnome-look.org/content/show.php?content=156215"
+    }
+}

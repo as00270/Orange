@@ -1,0 +1,84 @@
+#########################################################
+#    Darkair by Serge Wagner  sergew1967@gmqil.com      #
+#							#
+#		licensed under CC-by-SA			#
+#							#
+#  Please do not hesitate to mailme for any suggestion  #
+#               or error you should find                #
+#########################################################
+
+#############
+#  English  #
+#############
+
+Version 3.9.5 - published 01.08.2013 -
+Latest versions tested on ubuntu saucy with  ppa:ricotz/testing activated 
+(= gnome-shell 3.9.5 (ppa builds from 01.08.2013)
+Tested also on 
+- debian 7 (gnome-shell 3.4)
+- ubuntu 13.04 (no ppa) (gnome-shell 3.6)
+- fedora 19 (gnome-shell 3.8.3)
+
+Changelog 3.9.5
+
+- the mot changes since 1st release 
+- first vesion proposed also in .deb and rpm format
+- a lot of small fixes (for non-standard plugins, new gnome-shell user menu (> for gs >= 3.9.4), classic mode, ...)
+- a lot of fine-tuning - also for "old" versions (e.g. gs 3.4 on debian 7)
+- 2 versions of gnome-shell theme : Darkair & Darkair-BB - Try the difference
+
+Version 3.9.2 - published 31.05.2013 -tested with gnome-shell 3.9.2 (ppa:ricotz from 30.5.2013)
+
+Compatible gnome-shell 3.6 - 3.8.2 - 3.9.2 
+- fixes in gtk3 and some icons
+- fine-tuning (quite a lot)
+- small fix in conky theme
+
+Version 3.9.1 - published 23.05.2013
+
+- fixes in gtk2 & gtk3
+- nicer onscreen keyboard, input field, popup menu layout, ...
+- a lot of fine-tuning
+- more minimalistic conky theme - with no overlay issues 
+ 
+Version 1.8.1 - published 18.04.2013
+gnome-shell 3.8.1 compatible
+- more bug fixes (gtk 2 & 3)
+- redesign of notifications an  chat messages (gnome-shell)
+  transparency fix of conky
+
+Version 1.7.2 - published 10.03.2013
+- more bug fixes 
+
+Version 1.7.1 - published 10.03.2013
+- some minor fixes
+- some gnome-classic fixes
+
+Version 1.7.0 - published 09.03.2013
+- a lot of fine-tuning
+- small GS 3.7.91 compatibility-fixes
+- small GS classic fixes
+- general fixes due to some comments
+
+
+Version 1.6.0
+fixed overlay for program folder
+darkened overlays
+a lot of finetuning
+
+Version 1.5 
+- 3.7.90 compatibel
+- convertedd graphics from png to svg
+- a lot of finetuning
+
+Version 1.4 - Alpha
+
+- quite a lot of modifications formnome-shell 3.7.90 compatibiliy
+- conky theme now includes weather preview
+- removed darkair-blue (on request i will modify the theme for GS 3.7.90
+- For weather preview, YOU MUST INSTALL conkyforecast.deb - please read Readme-conky-Weather
+
+Original ConkyForecast by michalfiurasek (more complex than this version) - see
+http://gnome-look.org/content/show.php/Weather+Conky?content=153462
+
+

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96"
+   height="96"
+   id="svg8612"
+   version="1.1"
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="bg-app.svg">
+  <defs
+     id="defs8614">
+    <linearGradient
+       id="linearGradient4122"
+       inkscape:collect="always">
+      <stop
+         id="stop4132"
+         offset="0"
+         style="stop-color:#e2e3db;stop-opacity:1" />
+      <stop
+         id="stop4134"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0.36862746" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3755">
+      <stop
+         style="stop-color:#ffa300;stop-opacity:1;"
+         offset="0"
+         id="stop3757" />
+      <stop
+         style="stop-color:#ffc837;stop-opacity:1;"
+         offset="1"
+         id="stop3759" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient9130">
+      <stop
+         style="stop-color:#ffc837;stop-opacity:0;"
+         offset="0"
+         id="stop9132" />
+      <stop
+         style="stop-color:#ffa300;stop-opacity:0;"
+         offset="1"
+         id="stop9134" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient9130"
+       id="linearGradient9136"
+       x1="52"
+       y1="-24"
+       x2="92"
+       y2="-24"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.233693,0,0,1.2336928,-107.5829,-37.459805)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4122"
+       id="radialGradient4144"
+       cx="7.375"
+       cy="40.724873"
+       fx="7.375"
+       fy="40.724873"
+       r="47.875"
+       gradientTransform="matrix(1,0,0,1.0130548,0,-0.00652742)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="87.622169"
+     inkscape:cy="49.9943"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true" />
+  <metadata
+     id="metadata8617">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,48)">
+    <rect
+       style="fill:url(#linearGradient9136);fill-opacity:1;fill-rule:evenodd;stroke:#ffa300;stroke-width:1.69864392000000008;stroke-miterlimit:5.09999990000000025;stroke-opacity:0;stroke-dasharray:none"
+       id="rect8620"
+       width="48.144112"
+       height="48.144108"
+       x="-42.829067"
+       y="-91.140488"
+       transform="matrix(0.00362484,0.99999343,-0.99999343,0.00362485,0,0)"
+       ry="2.3428755"
+       rx="2.3428757" />
+    <rect
+       style="opacity:1;fill:url(#radialGradient4144);fill-opacity:1.0;fill-rule:evenodd;stroke-width:3.25600004;stroke-miterlimit:5.0999999;stroke-dasharray:none"
+       id="rect4120"
+       width="95.75"
+       height="97"
+       x="0.25"
+       y="-48"
+       rx="2.7192376"
+       ry="3.0001681" />
+  </g>
+</svg>

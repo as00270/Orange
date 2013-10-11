@@ -1,0 +1,9 @@
+To get more than 6 icons in a row an App grid, please execute
+
+sudo sed -i '/MAX_COLUMNS = 6/c\MAX_COLUMNS = 8' /usr/share/gnome-shell/js/ui/appDisplay.js
+
+8 is a good value for 1366x768, change to 9 for 1600x900 or 10-11 for 1920x1080
+
+Have fun 
+
+Please send any comment yu should have
