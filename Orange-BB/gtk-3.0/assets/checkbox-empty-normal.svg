@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3199"
+   height="22"
+   width="24"
+   version="1.1"
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="checkbox-empty.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     id="namedview10862"
+     showgrid="false"
+     inkscape:zoom="15.29594"
+     inkscape:cx="0.97937907"
+     inkscape:cy="11"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g14586" />
+  <defs
+     id="defs3201" />
+  <metadata
+     id="metadata3204">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-342.5 -521.36)">
+    <g
+       id="g14586"
+       transform="matrix(.84337 0 0 .84337 -110.17 -503.56)">
+      <g
+         id="g15291-9"
+         style="enable-background:new"
+         transform="matrix(1.9969 0 0 1.9969 -397.05 877)">
+        <g
+           id="g16853-4"
+           style="fill:none;enable-background:new"
+           transform="translate(877.49991,-102.84)">
+          <rect
+             id="rect6506-6"
+             ry="0.95631999"
+             style="color:#000000;fill:none;stroke:#868686;stroke-width:0.59377003;enable-background:new"
+             rx="0.95631999"
+             transform="scale(1,-1)"
+             height="11.262"
+             width="11.282"
+             y="-284.39999"
+             x="-409.59" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

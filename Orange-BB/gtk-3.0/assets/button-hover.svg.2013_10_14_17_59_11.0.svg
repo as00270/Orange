@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg4102"
+   version="1.1"
+   inkscape:version="0.48+devel r"
+   viewBox="0 0 32 32.000001"
+   sodipodi:docname="button-hover.svg">
+  <defs
+     id="defs4104">
+    <radialGradient
+       id="orange1"
+       gradientUnits="userSpaceOnUse"
+       cy="5.8190999"
+       cx="7.6582999"
+       gradientTransform="matrix(1.0474,0,0,1.0517,-0.36326,-0.42032)"
+       r="8.6928997">
+      <stop
+         id="stop16500-8-5"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0" />
+      <stop
+         offset="0.5"
+         style="stop-color:#ffc032;stop-opacity:1;"
+         id="stop3779" />
+      <stop
+         id="stop16502-0-3"
+         style="stop-color:#ffa300;stop-opacity:1;"
+         offset="1" />
+    </radialGradient>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Lighting"
+       id="filter6145">
+      <feComponentTransfer
+         in="blur"
+         result="component"
+         id="feComponentTransfer6147">
+        <feFuncR
+           type="gamma"
+           amplitude="1.2"
+           exponent="1"
+           offset="0"
+           id="feFuncR6149" />
+        <feFuncG
+           type="gamma"
+           amplitude="1.2"
+           exponent="1"
+           offset="0"
+           id="feFuncG6151" />
+        <feFuncB
+           type="gamma"
+           amplitude="1.2"
+           exponent="1"
+           offset="0"
+           id="feFuncB6153" />
+      </feComponentTransfer>
+    </filter>
+  </defs>
+  <radialGradient
+     r="8.6928997"
+     cy="5.8190999"
+     cx="7.6582999"
+     gradientTransform="matrix(1.9289036,0,0,1.9277532,1.2275557,1020.7011)"
+     gradientUnits="userSpaceOnUse"
+     id="radialGradient3004"
+     xlink:href="#orange1"
+     inkscape:collect="always" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.7480143"
+     inkscape:cx="-19.222791"
+     inkscape:cy="22.69563"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4107">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       id="path2394-32-4"
+       style="color:#000000;fill:url(#radialGradient3004);fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:2.67234445;stroke-opacity:1;enable-background:accumulate;clip-rule:evenodd"
+       d="m 1.3361717,1036.3623 c 0,-8.0981 6.5657106,-14.6639 14.6638263,-14.6639 8.098118,0 14.66383,6.5658 14.66383,14.6639 0,8.0982 -6.565712,14.6637 -14.66383,14.6637 -8.0981157,0 -14.6638263,-6.5655 -14.6638263,-14.6637 z" />
+  </g>
+</svg>

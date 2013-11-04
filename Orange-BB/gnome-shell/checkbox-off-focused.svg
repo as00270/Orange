@@ -10,10 +10,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3199"
-   height="22"
+   height="24"
    width="24"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48+devel r"
    sodipodi:docname="checkbox-off-focused.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -24,27 +24,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="790"
-     inkscape:window-height="480"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
      id="namedview4657"
      showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="-6.5974573"
+     inkscape:zoom="21.068348"
+     inkscape:cx="12"
      inkscape:cy="11"
      inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
      inkscape:current-layer="g16853-4" />
   <defs
      id="defs3201">
     <linearGradient
        id="linearGradient14219"
-       y2="-388.73"
+       y2="-388.73001"
        gradientUnits="userSpaceOnUse"
-       y1="-396.35"
-       gradientTransform="matrix(1.5918 0 0 .85714 -256.56 59.685)"
-       x2="-93.031"
-       x1="-93.031">
+       y1="-396.35001"
+       gradientTransform="matrix(1.5857166,0,0,0.85538048,-255.87804,59.623903)"
+       x2="-93.030998"
+       x1="-93.030998">
       <stop
          id="stop15406"
          style="stop-color:#dedede;stop-opacity:0.1;"
@@ -63,35 +63,35 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      id="layer1"
-     transform="translate(-342.5 -521.36)">
+     transform="translate(-342.5,-519.36)">
     <g
        id="g14586"
-       style="stroke-width:2.3714"
-       transform="matrix(.80230 0 0 .80230 -87.624 -453.1)">
+       style="stroke-width:2.37140012"
+       transform="matrix(0.8023,0,0,0.8023,-87.624,-453.1)">
       <g
          id="g15291-9"
          style="stroke-width:1.1875;enable-background:new"
-         transform="matrix(1.9969 0 0 1.9969 -397.05 877)">
+         transform="matrix(1.9969,0,0,1.9969,-397.05,877)">
         <g
            id="g16853-4"
            style="stroke-width:1.1875;enable-background:new"
-           transform="translate(877.5 -102.84)">
+           transform="translate(877.5,-102.84)">
           <rect
              id="rect6506-6"
-             ry="1.0053"
-             style="stroke-width:1.24829999999999997;color:#000000;stroke:#ffa300;enable-background:new;fill:url(#linearGradient14219);stroke-opacity:1"
-             rx="1.0053"
+             ry="1.0032364"
+             style="color:#000000;fill:url(#linearGradient14219);stroke:#ffa300;stroke-width:1.24463296;stroke-opacity:1;enable-background:new"
+             rx="1.0014579"
              transform="scale(1,-1)"
-             height="11.262"
-             width="11.282"
-             y="-284.4"
-             x="-409.59" />
+             height="11.238882"
+             width="11.238882"
+             y="-283.75476"
+             x="-408.32318" />
         </g>
       </g>
     </g>

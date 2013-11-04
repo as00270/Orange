@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="22"
+   height="22"
+   id="svg2"
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="close-passive.svg">
+  <title
+     id="title16794">Orange-Close-Passive</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="25.263158"
+     inkscape:cx="9.5"
+     inkscape:cy="9.5"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6516">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop6518" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0;"
+         offset="1"
+         id="stop6520" />
+    </linearGradient>
+    <radialGradient
+       cx="11"
+       cy="1040.3622"
+       r="7.5"
+       fx="11"
+       fy="1040.3622"
+       id="radialGradient5950"
+       xlink:href="#linearGradient6516"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1333333,0,0,1.1333333,0.2333136,-1170.9105)" />
+    <this
+       id="filter3997-1"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation="3.0873328"
+         id="feGaussianBlur3999-5" />
+    </this>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4001-6"
+       id="linearGradient5423"
+       x1="12.895644"
+       y1="3.5950265"
+       x2="20.610172"
+       y2="3.5950265"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,-1,-7.2788499,12.158157)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5023"
+       id="linearGradient5033"
+       x1="5.5"
+       y1="9.5"
+       x2="13.5"
+       y2="9.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,1,19,0)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6516"
+       id="linearGradient6522"
+       x1="5.5"
+       y1="9.5"
+       x2="13.5"
+       y2="9.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-1,0,0,-1,19,19)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4001-6-7"
+       id="linearGradient7659"
+       x1="5.7340002"
+       y1="9.5277042"
+       x2="13.265738"
+       y2="9.5277042"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,1,-1,0,19.027555,0.02783501)" />
+    <linearGradient
+       id="linearGradient4001-6-7">
+      <stop
+         id="stop4003-7-1"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4005-1-0"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Orange-Close-Passive</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>Oct. 2013</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Wagner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC-by-nc-sa</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Wagner</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     style="opacity:0.5;fill:#646464;fill-opacity:1;stroke:none"
+     id="path4003"
+     r="9.25"
+     cy="11"
+     cx="11" />
+  <circle
+     style="fill:#ffffff;fill-opacity:1;stroke:none"
+     id="path4003-9"
+     r="8.8500004"
+     cy="11"
+     cx="11" />
+  <circle
+     style="fill:#f8f8f8;fill-opacity:1;stroke:none"
+     id="path4545"
+     r="7.5"
+     cy="11"
+     cx="11" />
+  <circle
+     style="fill:url(#radialGradient5950);fill-opacity:1;stroke:none"
+     id="path4545-2"
+     r="8.5"
+     cy="11"
+     cx="11" />
+  <g
+     id="layer2"
+     transform="translate(1.5,1.5000172)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0;fill:url(#linearGradient6522);fill-opacity:1;stroke:none;filter:url(#filter3997-1)"
+     id="path4168-8-0"
+     d="M 9.710154,9.3198892 7.290415,11.686322 c -0.38722,0.416023 -0.38722,1.08588 0,1.501774 0.387216,0.415895 1.010881,0.415895 1.3981,0 l 2.311487,-2.482779 2.311483,2.482779 c 0.387219,0.415895 1.010884,0.415895 1.3981,0 0.38722,-0.415894 0.38722,-1.085751 0,-1.501774 L 12.154532,9.2617582 c -1.14592,-1.030284 -1.147567,-1.019845 -2.444378,0.05813 z"
+     sodipodi:nodetypes="ccscccsccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.5;fill:#999999;fill-opacity:1;stroke:none;filter:url(#filter3997-1)"
+     id="path4168"
+     d="m 14.492452,7.5862917 c -0.364554,-0.3592287 -0.951711,-0.3592287 -1.316265,0 L 10.999995,9.7306912 8.8238057,7.5862917 c -0.3645546,-0.3592287 -0.9517108,-0.3592287 -1.3162654,0 -0.3645509,0.3592251 -0.3645509,0.9378065 0,1.2970355 L 9.6837328,11.027723 7.507544,13.172118 c -0.3645546,0.359229 -0.3645546,0.937807 0,1.297036 0.3645509,0.359225 0.9517108,0.359225 1.3162654,0 l 2.1761886,-2.144396 2.176185,2.144396 c 0.364555,0.359225 0.951715,0.359225 1.316266,0 0.364554,-0.359229 0.364554,-0.937807 0,-1.297036 L 12.31626,11.027723 14.492452,8.8833272 c 0.364551,-0.359229 0.364551,-0.9378104 0,-1.2970355 z" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.5;fill:url(#linearGradient7659);fill-opacity:1;stroke:none;filter:url(#filter3997-1)"
+     id="path4168-6"
+     d="m 14.441281,14.520177 c 0.359229,-0.364554 0.359229,-0.951711 0,-1.316265 l -2.144399,-2.176193 2.144399,-2.1761878 c 0.359229,-0.3645547 0.359229,-0.9517108 0,-1.3162657 -0.359225,-0.3645511 -0.937807,-0.3645511 -1.297035,0 L 10.99985,9.7114582 8.8554547,7.5352695 c -0.359229,-0.364555 -0.937807,-0.364555 -1.297036,0 -0.359225,0.3645509 -0.359225,0.951711 0,1.3162647 l 2.1443961,2.1761888 -2.1443961,2.176185 c -0.359225,0.364555 -0.359225,0.951715 0,1.316266 0.359229,0.364554 0.937807,0.364554 1.297036,0 l 2.1443953,-2.176189 2.144396,2.176192 c 0.359228,0.364551 0.93781,0.364551 1.297035,0 z" />
+</svg>

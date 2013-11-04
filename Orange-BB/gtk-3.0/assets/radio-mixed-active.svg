@@ -14,7 +14,7 @@
    height="24"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48+devel r"
    sodipodi:docname="radio-mixed-active.svg">
   <defs
      id="defs4">
@@ -138,8 +138,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="12.646218"
+     inkscape:zoom="7.875"
+     inkscape:cx="-31.417274"
      inkscape:cy="14.560256"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -147,9 +147,9 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
-     inkscape:window-height="709"
+     inkscape:window-height="708"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -187,7 +187,7 @@
        transform="matrix(1.2631579,0,0,1.2631579,-0.52631565,-284.41107)">
       <path
          transform="matrix(1.2666667,0,0,1.2666667,-4.3333338,1026.2955)"
-         d="M 20,11.5 C 20,15.642136 16.642136,19 12.5,19 8.3578644,19 5,15.642136 5,11.5 5,7.3578644 8.3578644,4 12.5,4 16.642136,4 20,7.3578644 20,11.5 z"
+         d="M 20,11.5 A 7.5,7.5 0 0 1 12.5,19 7.5,7.5 0 0 1 5,11.5 7.5,7.5 0 0 1 12.5,4 7.5,7.5 0 0 1 20,11.5 Z"
          sodipodi:ry="7.5"
          sodipodi:rx="7.5"
          sodipodi:cy="11.5"
@@ -203,11 +203,11 @@
          sodipodi:cy="11.5"
          sodipodi:rx="5"
          sodipodi:ry="5.5"
-         d="M 18,11.5 C 18,14.537566 15.761424,17 13,17 10.238576,17 8,14.537566 8,11.5 8,8.4624339 10.238576,6 13,6 c 2.761424,0 5,2.4624339 5,5.5 z"
+         d="M 18,11.5 A 5,5.5 0 0 1 13,17 5,5.5 0 0 1 8,11.5 5,5.5 0 0 1 13,6 a 5,5.5 0 0 1 5,5.5 z"
          transform="matrix(1.7,0,0,-1.5454545,-10.6,1058.635)" />
       <path
          transform="matrix(1.5,0,0,1.3636364,-8,1025.1804)"
-         d="M 18,11.5 C 18,14.537566 15.761424,17 13,17 10.238576,17 8,14.537566 8,11.5 8,8.4624339 10.238576,6 13,6 c 2.761424,0 5,2.4624339 5,5.5 z"
+         d="M 18,11.5 A 5,5.5 0 0 1 13,17 5,5.5 0 0 1 8,11.5 5,5.5 0 0 1 13,6 a 5,5.5 0 0 1 5,5.5 z"
          sodipodi:ry="5.5"
          sodipodi:rx="5"
          sodipodi:cy="11.5"
@@ -223,5 +223,12 @@
        d="m 3.0021264,1030.3623 c 0,-2.5628 0.8767515,-4.921 2.346649,-6.7909 2.0136389,-2.5617 5.1404196,-4.207 8.6512236,-4.207 5.349587,0 9.807542,3.8202 10.794348,8.8812 0.133553,0.685 0.203526,1.3927 0.203526,2.1167 0,6.0735 -4.924284,10.9978 -10.997874,10.9978 -6.0735879,0 -10.9978726,-4.9243 -10.9978726,-10.9978 z"
        clip-rule="evenodd"
        sodipodi:nodetypes="sssssss" />
+    <rect
+       style="opacity:0.91000001;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="rect3285"
+       width="10"
+       height="2.4603174"
+       x="8.984127"
+       y="1029.6161" />
   </g>
 </svg>

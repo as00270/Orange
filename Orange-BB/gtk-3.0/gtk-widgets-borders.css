@@ -6,8 +6,8 @@ GtkComboBox.combobox-entry .button,
 .button:active,
 .spinbutton.vertical .button:active,
 .inline-toolbar.toolbar.vertical .button:active {
-	border-image: url("borders/button-active.png") 3 4 4 4 / 3px 4px 4px 4px stretch;
-	border-radius: 4px;
+	border-image: url("borders/button-active.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
+	border-radius: 3px;
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
@@ -20,23 +20,23 @@ GtkComboBox.combobox-entry .button:insensitive,
 .spinbutton.vertical .button:insensitive,
 .inline-toolbar.toolbar.vertical .button:insensitive,
 .inline-toolbar.toolbar.vertical .button.default:insensitive {
-	border-image: url("borders/button-active-ins.png") 3 4 4 4 / 3px 4px 4px 4px stretch;
-	border-radius: 4px;
+	border-image: url("borders/button-active-ins.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
+	border-radius: 3px;
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
 }
 
 .trough row {
-	border-image: url("borders/nohl-generic-border.png") 3 / 3px stretch; /* Zuki note: figure out the heck it does */
-	border-radius: 4px;
+	border-image: url("borders/button.svg") 3 / 3px stretch;
+	border-radius: 3px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: transparent;
 }
 
 GtkProgressBar.trough {
-	box-shadow: inset 0 0 0 1px @borders;
+	box-shadow: inset 0px 0px 0px 1px @borders;
 }
 
 /* focused element borders */
@@ -44,8 +44,8 @@ GtkProgressBar.trough {
 GtkComboBox.combobox-entry .entry:focus,
 .button.default:active,
 .inline-toolbar.toolbar.vertical .button.default:active {
-	border-image: url("borders/button-active-focus.png") 3 4 4 4 / 3px 4px 4px 4px stretch;
-	border-radius: 4px;
+	border-image: url("borders/button-active-focus.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
+	border-radius: 3px;
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
@@ -55,7 +55,7 @@ GtkComboBox.combobox-entry .entry:focus,
 .button
 /*.spinbutton.vertical .button,
 .inline-toolbar.toolbar.vertical .button*/ {
-	border-image: url("borders/button.png") 3 4 4 4 / 3px 4px 4px 4px stretch;
+	border-image: url("borders/button.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 	border-radius: 4px;
 	border-width: 2px;
 	border-style: solid;
@@ -64,8 +64,8 @@ GtkComboBox.combobox-entry .entry:focus,
 
 .spinbutton.vertical .button,
 .inline-toolbar.toolbar.vertical .button {
-	border-image: url("borders/button.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
-	border-radius: 4px;
+	border-image: url("borders/button.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
+	border-radius: 3px;
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
@@ -74,8 +74,8 @@ GtkComboBox.combobox-entry .entry:focus,
 /* focused button borders */
 .button.default,
 .button:focus { 
-	border-image: url("borders/button-focus.png") 3 4 4 4 / 3px 4px 4px 4px stretch;
-	border-radius: 4px;
+	border-image: url("borders/button-focus.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
+	border-radius: 3px;
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
@@ -83,8 +83,8 @@ GtkComboBox.combobox-entry .entry:focus,
 
 .button.default:active,
 .button:active:focus { 
-	border-image: url("borders/button-active-focus.png") 3 4 4 4 / 3px 4px 4px 4px stretch;
-	border-radius: 4px;
+	border-image: url("borders/button-active-focus.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
+	border-radius: 3px;
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
@@ -93,31 +93,31 @@ GtkComboBox.combobox-entry .entry:focus,
 /* insensitive button borders */
 .button:insensitive,
 .button.default:insensitive {
-	border-image: url("borders/button-ins.png") 3 4 4 4 / 3px 4px 4px 4px stretch;
+	border-image: url("borders/button-ins.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 }
 
 /* primary toolbar button borders */
 .primary-toolbar .button:hover {
-	border-image: url("borders/button.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
+	border-image: url("borders/button.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 	background-color: transparent;
 
 }
 
 .primary-toolbar .button:active {
-	border-image: url("borders/button-active.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
+	border-image: url("borders/button-active.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 	background-color: transparent;
 }
 
 /* tooltip elements borders */
 .tooltip .entry {
-	border-image: url("borders/button-active.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
+	border-image: url("borders/button-active.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 	border-width: 1px;
 	border-style: solid;
 	border-color: transparent;
 }
 
 .tooltip .button {
-	border-image: url("borders/button.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
+	border-image: url("borders/button.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 	border-width: 1px;
 	border-style: solid;
 	border-color: transparent;
@@ -125,7 +125,7 @@ GtkComboBox.combobox-entry .entry:focus,
 
 /* tooltip focused elements borders */
 .tooltip .entry:focus {
-	border-image: url("borders/button-focus.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
+	border-image: url("borders/button-focus.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 	border-width: 1px;
 	border-style: solid;
 	border-color: transparent;
@@ -141,8 +141,8 @@ GtkComboBox.combobox-entry .entry:focus,
 .inline-toolbar.toolbar .button:active,
 .primary-toolbar GtkComboBox .button:active {
 	/*border-image: url("borders/primary-toolbar-generic-border.png") 4 / 4px stretch;*/
-	border-image: url("borders/button-active.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
-	border-radius: 4px;
+	border-image: url("borders/button-active.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
+	border-radius: 3px;
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
@@ -155,8 +155,8 @@ GtkComboBox.combobox-entry .entry:focus,
 .inline-toolbar.toolbar .button.default:insensitive,
 .inline-toolbar.toolbar .button:insensitive,
 .primary-toolbar GtkComboBox .button:insensitive {
-	border-image: url("borders/button-active-ins.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
-	border-radius: 4px;
+	border-image: url("borders/button-active-ins.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
+	border-radius: 3px;
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
@@ -169,8 +169,7 @@ GtkComboBox.combobox-entry .entry:focus,
 .primary-toolbar .button.raised.default:active,
 .primary-toolbar .raised .button.default:active,
 .inline-toolbar.toolbar .button.default:active {
-	/*border-image: url("borders/primary-toolbar-generic-border-focused.png") 4 / 4px stretch;*/
-	border-image: url("borders/button-active-focus.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
+	border-image: url("borders/button-active-focus.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 	border-radius: 4px;
 	border-width: 2px;
 	border-style: solid;
@@ -182,9 +181,8 @@ GtkComboBox.combobox-entry .entry:focus,
 .primary-toolbar .raised .button,
 .inline-toolbar.toolbar .button,
 .primary-toolbar GtkComboBox .button {
-	/*border-image: url("borders/primary-toolbar-button-border.png") 4 / 4px stretch;*/
-	border-image: url("borders/button.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
-	border-radius: 4px;
+	border-image: url("borders/button.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
+	border-radius: 3px;
 	border-width: 2px;
 	border-style: solid;
 	border-color: transparent;
@@ -195,7 +193,7 @@ GtkComboBox.combobox-entry .entry:focus,
 .primary-toolbar .raised .button.default,
 .inline-toolbar.toolbar .button.default {
 	/*border-image: url("borders/primary-toolbar-button-border-default.png") 4 / 4px stretch;*/
-	border-image: url("borders/button-focus.png") 3 3 4 3 / 3px 3px 4px 3px stretch;
+	border-image: url("borders/button-focus.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 	border-radius: 4px;
 	border-width: 2px;
 	border-style: solid;
@@ -257,10 +255,9 @@ column-header:last-child .button:active:hover {
 /* pushed colored buttons borders */
 .selection-mode.toolbar .suggested-action.button,
 .selection-mode.toolbar GtkToolButton.suggested-action .button {
-	/*border-image: url("borders/generic-border-transparent.png") 3 3 4 3 / 3px 3px 4px 3px stretch;*/
+	border-image: url("borders/button-focus.svg") 4 4 4 4 / 4px 4px 4px 4px stretch;
 	border-radius: 4px;
 	border-width: 0px 0px 1px 0px;
 	border-style: solid;
 	border-color: transparent;
-	/* Zuki note: figure out the heck it does */
 }

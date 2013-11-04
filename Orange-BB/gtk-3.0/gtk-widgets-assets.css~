@@ -15,30 +15,30 @@
 .radio,
 .view.cell.check,
 .check {
-	/*background-clip: border-box;*/
-	background-image: url("assets/check-normal.png");
+	background-clip: border-box;
+	background-image: url("assets/checkbox-empty-normal.svg");
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 .check:hover {
-	background-image: url("assets/check-normal.png");
+	background-image: url("assets/checkbox-empty-hover.svg");
 }
 
 .check row,
 .check row:selected,
 .check row:selected:focus {
-	background-image: url("assets/check-normal.png");
+	background-image: url("assets/check-normal.svg");
 }
 
 .check row:hover,
 .check row:selected:hover,
 .check row:selected:focus:hover {
-	background-image: url("assets/check-normal.png");
+	background-image: url("assets/check-normal.svg");
 }
 
 .check:insensitive {
-	background-image: url("assets/check-normal-ins.png");
+	background-image: url("assets/check-normal-ins.svg");
 }
 
 .check row:insensitive {
@@ -49,68 +49,68 @@
 .check row:selected:insensitive,
 .check row:selected:focus:insensitive {
 	background-color: transparent;
-	background-image: url("assets/check-normal-ins.png");
+	background-image: url("assets/check-normal-ins.svg");
 }
 
 .check:active,
 .view.cell.check:active {
-	background-image: url("assets/check-active.png");
+	background-image: url("assets/checkbox.svg");
 }
 
 .check:active:hover {
-	background-image: url("assets/check-active.png");
+	background-image: url("assets/checkbox-hover.svg");
 }
 
 .check row:active,
 .check row:selected:active,
 .check row:selected:focus:active {
-	background-image: url("assets/check-active.png");
+	background-image: url("assets/check-active-hover.svg");
 }
 
 .check row:active:hover,
 .check row:selected:active:hover,
 .check row:selected:active:focus:hover {
-	background-image: url("assets/check-active.png");
+	background-image: url("assets/checkbox.svg");
 }
 
 .check:active:insensitive {
-	background-image: url("assets/check-active-ins.png");
+	background-image: url("assets/check-active-ins.svg");
 }
 
 .check row:active:insensitive,
 .check row:selected:active:insensitive,
 .check row:selected:focus:active:insensitive {
-	background-image: url("assets/check-active-ins.png");
+	background-image: url("assets/check-active-ins.svg");
 }
 
 .check:inconsistent {
-	background-image: url("assets/check-mixed-active.png");
+	background-image: url("assets/check-mixed-active.svg");
 }
 
 .check:inconsistent:hover {
-	background-image: url("assets/check-mixed-active.png");
+	background-image: url("assets/check-mixed-active.svg");
 }
 
 .check row:inconsistent,
 .check row:selected:inconsistent,
 .check row:selected:focus:inconsistent {
-	background-image: url("assets/check-mixed-active.png");
+	background-image: url("assets/check-mixed-active.svg");
 }
 
 .check row:inconsistent:hover,
 .check row:selected:inconsistent:hover,
 .check row:selected:focus:inconsistent:hover {
-	background-image: url("assets/check-mixed-active.png");
+	background-image: url("assets/check-mixed-active.svg");
 }
 
 .check:inconsistent:insensitive {
-	background-image: url("assets/check-mixed-active-ins.png");
+	background-image: url("assets/check-mixed-active-ins.svg");
 }
 
 .check row:inconsistent:insensitive,
 .check row:selected:inconsistent:insensitive,
 .check row:selected:focus:inconsistent:insensitive {
-	background-image: url("assets/check-mixed-active-ins.png");
+	background-image: url("assets/check-mixed-active-ins.svg");
 }
 
 .radio,
@@ -137,7 +137,7 @@
 }
 
 .radio:insensitive {
-	background-image: url("assets/radio-normal-ins.png");
+	background-image: url("assets/radio-normal-ins.svg");
 }
 
 .radio row:insensitive {
@@ -147,7 +147,7 @@
 .radio row:insensitive,
 .radio row:selected:insensitive,
 .radio row:selected:focus:insensitive {
-	background-image: url("assets/radio-normal-ins.png");
+	background-image: url("assets/radio-normal-ins.svg");
 }
 
 .radio:active,
@@ -172,13 +172,13 @@
 }
 
 .radio:active:insensitive {
-	background-image: url("assets/radio-active-ins.png");
+	background-image: url("assets/radio-active-ins.svg");
 }
 
 .radio row:insensitive,
 .radio row:selected:active:insensitive,
 .radio row:selected:focus:active:insensitive {
-	background-image: url("assets/radio-active-ins.png");
+	background-image: url("assets/radio-active-ins.svg");
 }
 
 .radio:inconsistent {
@@ -202,13 +202,13 @@
 }
 
 .radio:inconsistent:insensitive {
-	background-image: url("assets/radio-mixed-active-ins.png");
+	background-image: url("assets/radio-mixed-active-ins.svg");
 }
 
 .radio row:inconsistent:insensitive,
 .radio row:selected:inconsistent:insensitive,
 .radio row:selected:focus:inconsistent:insensitive {
-	background-image: url("assets/radio-mixed-active-ins.png");
+	background-image: url("assets/radio-mixed-active-ins.svg");
 }
 
 .sidebar .view.radio:active,
@@ -232,7 +232,7 @@
 }
 .primary-toolbar .menu .check,
 .menu .check {
-	background-image: url("assets/check-menuitem-unselected.png");
+	background-image: url("assets/check-menuitem-unselected.svg");
 }
 
 /*************
@@ -259,7 +259,7 @@ GtkSwitch.trough:active:insensitive {
  *********************/
 .primary-toolbar .menu .radio,
 .menu .radio {
-	background-image: url("assets/check-menuitem-unselected.png");
+	background-image: url("assets/check-menuitem-unselected.svg");
 }
 .scale.slider,
 .scale.slider.horizontal {
@@ -359,60 +359,60 @@ GtkSwitch.trough:active:insensitive {
 
 .primary-toolbar .menu .check:active,
 .menu .check:active {
-	background-image: url("assets/check-menuitem-dark.png");
+	background-image: url("assets/check-menuitem-dark.svg");
 }
 
 .toolbar .menu .check:active:hover,
 .menu .check:active:hover {
-	background-image: url("assets/check-menuitem.png");
+	background-image: url("assets/check-menuitem.svg");
 }
 
 .primary-toolbar .menu .check:active:insensitive,
 .toolbar .menu .check:active:hover:insensitive,
 .menu .check:active:insensitive,
 .menu .check:active:hover:insensitive {
-	background-image: url("assets/check-menuitem-insensitive-dark.png");
+	background-image: url("assets/check-menuitem-insensitive.svg");
 }
 
 .primary-toolbar .menu .radio:active,
 .menu .radio:active {
-	background-image: url("assets/radio-menuitem-dark.png");
+	background-image: url("assets/radio-active.svg");
 }
 
 .toolbar .menu .radio:active:hover,
 .menu .radio:active:hover {
-	background-image: url("assets/radio-menuitem.png");
+	background-image: url("assets/radio-active-hover.svg");
 }
 
 .primary-toolbar .menu .radio:active:insensitive,
 .toolbar .menu .radio:active:hover:insensitive,
 .menu .radio:active:insensitive,
 .menu .radio:active:hover:insensitive {
-	background-image: url("assets/radio-menuitem-insensitive-dark.png");
+	background-image: url("assets/radio-menuitem-insensitive.svg");
 }
 
 .toolbar .menu .check {
-	background-image: url("assets/check-menuitem-unselected.png");
+	background-image: url("assets/check-menuitem-unselected.svg");
 }
 
 .toolbar .menu .radio {
-	background-image: url("assets/check-menuitem-unselected.png");
+	background-image: url("assets/check-menuitem-unselected.svg");
 }
 
 .toolbar .menu .check:active {
-	background-image: url("assets/check-menuitem-dark.png");
+	background-image: url("assets/check-menuitem-dark.svg");
 }
 
 .toolbar .menu .check:active:insensitive {
-	background-image: url("assets/check-menuitem-insensitive-dark.png");
+	background-image: url("assets/check-menuitem-insensitive.svg");
 }
 
 .toolbar .menu .radio:active {
-	background-image: url("assets/radio-menuitem-dark.png");
+	background-image: url("assets/radio-menuitem-dark.svg");
 }
 
 .toolbar .menu .radio:active:insensitive {
-	background-image: url("assets/radio-menuitem-insensitive-dark.png");
+	background-image: url("assets/radio-menuitem-insensitive.svg");
 }
 .cursor-handle.bottom {
 	background-image: url("assets/slider.svg");
@@ -426,22 +426,7 @@ GtkSwitch.trough:active:insensitive {
  * Content view *
  ****************/
 .content-view.view {
-	/*background-image: url("assets/noise-texture-light.png");*/
+	background-image: url("assets/noise-texture-light.png");
 }
-.close.
-.colse-window,
-.close_window,
-.window_closw {
-	background-image: url("assets/close.png");
-	background-repeat: no-repeat;
-	background-position: center;
-}
-.close:active,
-.close:hover,
-.close_window:active,
-.close_windows:hover{
-	background-image: url("assets/close.png");
-	background-repeat: no-repeat;
-	background-position: center;
-}
+
 

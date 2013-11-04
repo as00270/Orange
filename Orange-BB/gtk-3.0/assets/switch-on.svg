@@ -13,8 +13,8 @@
    height="22"
    width="65"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="toggle-on-intl.svg">
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="switch-on.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -25,14 +25,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1366"
-     inkscape:window-height="677"
+     inkscape:window-height="706"
      id="namedview16231"
      showgrid="false"
-     inkscape:zoom="6.8"
-     inkscape:cx="-27.647059"
-     inkscape:cy="11"
+     inkscape:zoom="13.076923"
+     inkscape:cx="11.147059"
+     inkscape:cy="10.705882"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:current-layer="g62931" />
   <defs
@@ -47,7 +47,7 @@
        x1="702.59003">
       <stop
          id="stop62993-6-9"
-         style="stop-color:#ffc837;stop-opacity:1;"
+         style="stop-color:#ffdc4b;stop-opacity:1"
          offset="0" />
       <stop
          id="stop62995-1-6"
@@ -84,7 +84,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -99,7 +99,7 @@
          transform="translate(0,30)">
         <rect
            id="rect62935"
-           style="stroke:#ffffff;stroke-linecap:round;fill:url(#linearGradient62979-8-1);stroke-opacity:1;fill-opacity:1"
+           style="stroke:#ffffff;stroke-linecap:round;fill:url(#linearGradient62979-8-1);stroke-opacity:1;fill-opacity:1;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none"
            rx="2"
            ry="2"
            height="21.094"
@@ -108,7 +108,7 @@
            x="644.5" />
         <rect
            id="rect62937"
-           style="stroke:#777b7a;stroke-linecap:round;fill:url(#linearGradient62981-1-1)"
+           style="stroke:#777b7a;stroke-linecap:round;fill:url(#linearGradient62981-1-1);stroke-opacity:1;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none"
            rx="1"
            ry="1"
            height="17.023"

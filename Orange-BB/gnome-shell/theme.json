@@ -1,8 +1,8 @@
 { 
    "shell-theme": {
-   "name": "Darkair-BB", 
+   "name": "Orange-BB (formerly called Darkair)", 
    "author": "Serge Wagner aka as00270", 
-   "version": "3.10rc2",
+   "version": "3.10.0.1",
    "type":   "custom",
    "thumbnail": "preview.jpg", 
    "url": "http://gnome-look.org/content/show.php?content=156215"

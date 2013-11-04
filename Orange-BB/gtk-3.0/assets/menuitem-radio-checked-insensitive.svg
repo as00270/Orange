@@ -13,10 +13,27 @@
    height="12.008709"
    id="svg4959"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="menuitem-radio-checked-selected.svg">
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="menuitem-radio-checked-insensitive.svg">
   <defs
-     id="defs4961" />
+     id="defs4961">
+    <radialGradient
+       id="radialGradient16504-1"
+       gradientUnits="userSpaceOnUse"
+       cy="5.8190999"
+       cx="7.6582999"
+       gradientTransform="matrix(0.43374398,0,0,0.44191474,400.3431,537.36988)"
+       r="8.6928997">
+      <stop
+         id="stop16500-8"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0" />
+      <stop
+         id="stop16502-0"
+         style="stop-color:#dedede;stop-opacity:1"
+         offset="1" />
+    </radialGradient>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -24,9 +41,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="3.2189413"
-     inkscape:cy="11.077361"
+     inkscape:zoom="15.591704"
+     inkscape:cx="6.686655"
+     inkscape:cy="7.35445"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -34,11 +51,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="746"
-     inkscape:window-height="463"
+     inkscape:window-width="1366"
+     inkscape:window-height="708"
      inkscape:window-x="0"
-     inkscape:window-y="49"
-     inkscape:window-maximized="0" />
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata4964">
     <rdf:RDF>
@@ -47,7 +64,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -60,6 +77,11 @@
        style="color:#000000;fill:#000000;fill-opacity:0.39215687;fill-rule:nonzero;stroke:none;stroke-width:0.95535718999999997;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        d="m 407.2133,541.01375 c 0,1.93299 -1.567,3.5 -3.5,3.5 -1.93299,0 -3.5,-1.56701 -3.5,-3.5 0,-1.933 1.56701,-3.5 3.5,-3.5 1.933,0 3.5,1.567 3.5,3.5 z"
        id="path4945"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path2394-32"
+       style="color:#000000;fill:url(#radialGradient16504-1);fill-opacity:1;stroke:#eeeeec;stroke-width:0.60673285;enable-background:accumulate;clip-rule:evenodd"
+       d="m 400.36753,540.96004 c 0,-1.8564 1.4764,-3.36152 3.29739,-3.36152 1.82098,0 3.29739,1.50512 3.29739,3.36152 0,1.85641 -1.47641,3.36153 -3.29739,3.36153 -1.82099,0 -3.29739,-1.50512 -3.29739,-3.36153 z"
        inkscape:connector-curvature="0" />
   </g>
 </svg>

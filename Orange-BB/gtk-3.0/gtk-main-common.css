@@ -73,13 +73,13 @@
  * Error/Warning/... *
  *********************/
 @define-color link_color #ffa300;
-@define-color warning_color #ffc837;
+@define-color warning_color #ffc832;
 @define-color error_color #ff0000;
-@define-color success_color #ffc032;
+@define-color success_color #ffdc4b;
 
 @define-color info_fg_color black;
 @define-color info_text_shadow alpha(black, 0.1);
-@define-color info_bg_color rgb (252, 207, 66);
+@define-color info_bg_color rgb(255,200,55);
 @define-color warning_fg_color black;
 @define-color warning_text_shadow alpha(black, 0.1);
 @define-color warning_bg_color rgb (250, 173, 61);

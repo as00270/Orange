@@ -1,0 +1,121 @@
+/*******
+ * CSD *
+ *******/
+.titlebar {
+    text-shadow: 0px 1px @wm_title_shadow;
+    background-image: linear-gradient(to bottom,
+                        #ffffff,
+			#fcfcfc,
+                        #f1f1f1);
+    border-radius: .4em .4em 0px 0px;
+padding: 0px;
+}
+.titlebar .button {
+padding: 0em;
+}
+
+.titlebar.default-decoration {
+    border: none;
+    box-shadow: none;
+}
+
+.titlebar .title {
+    font-size:  11px;
+	font-style: normal;
+}
+
+.titlebar:backdrop {
+    text-shadow: none;
+    background-image: none;
+    background-color: @wm_bg_b;
+}
+.titlebutton {
+    background-image: url("assets/hover.svg");
+	background-position: center center;
+	background-repeat: no-repeat;
+}
+
+.titlebar .titlebutton GtkImage {
+	padding: 8px;
+    background-image: url("assets/empty.svg");
+	background-position: center center;
+	background-repeat: no-repeat;
+    icon-shadow: 0 0 @wm_title_shadow;
+    color: transparent;
+    border-radius: 3px;
+    border-width: 0em;
+    color: transparent;
+	background-color: transparent;
+    border-width: 0em;
+    border-color: transparent;
+    border-style: solid;
+    border-image: none;
+}
+.titlebar .image-button {
+
+}
+.titlebar .titlebutton {
+    background-image: url("assets/hover.svg");
+	background-position: center center;
+	background-repeat: no-repeat;
+    color: #414141;
+    border-width: 0em;
+    border-color: transparent;
+    border-style: solid;
+    border-image: none;
+}
+.titlebar .titlebutton:hover,
+.titlebar .titlebutton:active, 
+.titlebar .titlebutton GtkImage:active,
+.titlebar .titlebutton:active GtkImage,
+.titlebar .titlebutton GtkImage:hover,
+.titlebar .titlebutton:hover GtkImage {
+    border-color: transparent;
+}
+.titlebar .titlebutton:insensitive {
+    color: #5d5d5d;
+    background-image: url("assets/button-hover.svg");
+	background-position: center center;
+	background-repeat: no-repeat;
+    border-color: transparent;
+}
+.titlebar .titlebutton:hover {
+    background-image: url("assets/hover.svg");
+}
+
+
+.titlebar .right .titlebutton:first-child {
+/*    border-left: 1px solid @menu_separator; */
+}
+
+.titlebar .right .titlebutton:last-child {
+}
+
+.titlebar .left .titlebutton:last-child {
+/*    border-right: 1px solid @menu_separator; */
+}
+
+.titlebar .left .titlebutton:first-child {
+}
+
+.titlebar .titlebutton:backdrop {
+    background-image: none;
+    border-color: transparent;
+    color: @wm_unfocused_title;
+    border-image: none;
+    icon-shadow: none;
+}
+
+.window-frame {
+    border-color: darker(@theme_bg_color);
+    border-radius: .4em .4em 0 0;
+    border-bottom-width: 1px;
+    border-style: solid;
+    box-shadow: 0px 2px 5px 3px @wm_shadow;
+    margin: .4em;
+}
+
+.window-frame:backdrop {
+    box-shadow: 0px 2px 4px 1px @wm_shadow;
+}
+

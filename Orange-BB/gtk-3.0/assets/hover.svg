@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="32"
+   height="32"
+   id="svg2"
+   inkscape:version="0.48+devel r"
+   sodipodi:docname="hover.svg">
+  <title
+     id="title9936">Orange-Close</title>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="706"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="15"
+     inkscape:cx="16"
+     inkscape:cy="21.153366"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="waiss">
+      <stop
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop5503" />
+      <stop
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0.3137255"
+         id="stop5505" />
+    </linearGradient>
+    <radialGradient
+       cx="11"
+       cy="1040.3622"
+       r="7.5"
+       fx="11"
+       fy="1040.3622"
+       id="radialGradient5950"
+       xlink:href="#waiss"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6666666,0,0,1.6666666,0.16663808,-1722.1036)" />
+    <linearGradient
+       id="linearGradient5507">
+      <stop
+         id="stop5954"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop5956"
+         style="stop-color:#ffa300;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="1509.5334"
+       y1="4492.1187"
+       x2="1509.5334"
+       y2="4800.3247"
+       id="linearGradient4195"
+       xlink:href="#linearGradient4001-6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.03628,0,0,0.03627996,-39.547489,-154.6006)" />
+    <linearGradient
+       id="linearGradient4001-6">
+      <stop
+         id="stop4003-7"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4005-1"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <this
+       id="filter3997-1"
+       style="color-interpolation-filters:sRGB">
+      <feGaussianBlur
+         stdDeviation="3.0873328"
+         id="feGaussianBlur3999-5" />
+    </this>
+    <linearGradient
+       x1="1509.5334"
+       y1="4492.1187"
+       x2="1509.5334"
+       y2="4800.3247"
+       id="linearGradient4195-3"
+       xlink:href="#linearGradient4001-6-2"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.03628,0,0,0.03627996,-44.974733,-158.41742)" />
+    <linearGradient
+       id="linearGradient4001-6-2">
+      <stop
+         id="stop4003-7-0"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4005-1-1"
+         style="stop-color:#ffffff;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       r="8.6928997"
+       cy="5.8190999"
+       cx="7.6582999"
+       gradientTransform="matrix(1.7725113,0,0,1.7714614,2.425283,1.6086201)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3004"
+       xlink:href="#radialGradient16504-1-9"
+       inkscape:collect="always" />
+    <radialGradient
+       id="radialGradient16504-1-9"
+       gradientUnits="userSpaceOnUse"
+       cy="5.8190999"
+       cx="7.6582999"
+       gradientTransform="matrix(1.0474,0,0,1.0517,-0.36326,-0.42032)"
+       r="8.6928997">
+      <stop
+         id="stop16500-8-5"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0" />
+      <stop
+         offset="0.5"
+         style="stop-color:#ffc032;stop-opacity:1;"
+         id="stop3779" />
+      <stop
+         id="stop16502-0-3"
+         style="stop-color:#ffa300;stop-opacity:1;"
+         offset="1" />
+    </radialGradient>
+    <radialGradient
+       r="8.6928997"
+       cy="6.8392477"
+       cx="9.6002798"
+       gradientTransform="matrix(3.1353833,-0.2132681,0.17430287,2.562533,-13.026232,-4.6108755)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3004"
+       xlink:href="#radialGradient16504-1-9"
+       inkscape:collect="always"
+       fx="9.6002798"
+       fy="6.8392477" />
+    <radialGradient
+       id="radialGradient16504-1-9"
+       gradientUnits="userSpaceOnUse"
+       cy="5.8190999"
+       cx="7.6582999"
+       gradientTransform="matrix(1.0474,0,0,1.0517,-0.36326,-0.42032)"
+       r="8.6928997">
+      <stop
+         id="stop16500-8-5"
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0" />
+      <stop
+         offset="0.5"
+         style="stop-color:#ffc032;stop-opacity:1;"
+         id="stop3779" />
+      <stop
+         id="stop16502-0-3"
+         style="stop-color:#ffa300;stop-opacity:1;"
+         offset="1" />
+    </radialGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Orange-Close</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/" />
+        <dc:date>Oct. 2013</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Serge Wagner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>CC-by-nc-sa</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Serge Wagner</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     style="fill:none;fill-opacity:1;stroke:#a3a3a3;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path4003"
+     cy="16"
+     cx="16"
+     r="14.25" />
+  <g
+     id="layer2"
+     style="opacity:0.98299997"
+     transform="matrix(1.5405405,0,0,1.5405405,1.3648649,1.3648911)" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.98299997;fill:none;stroke:none;filter:url(#filter3997-1)"
+     id="path4168-8"
+     d="m 17.882671,12.299834 3.594687,3.206092 c 0.575242,0.563636 0.575242,1.471173 0,2.034635 -0.575235,0.563462 -1.501733,0.563462 -2.076972,0 l -3.433873,-3.363721 -3.433865,3.363721 c -0.575241,0.563462 -1.501738,0.563462 -2.076974,0 -0.575241,-0.563462 -0.575241,-1.470999 0,-2.034635 l 3.795705,-3.284849 c 1.702343,-1.395848 1.704791,-1.381703 3.631292,0.07875 z"
+     sodipodi:nodetypes="ccscccsccc" />
+  <path
+     inkscape:connector-curvature="0"
+     style="opacity:0.87999998;fill:url(#linearGradient4195-3);fill-opacity:1;stroke:none"
+     id="path4170"
+     d="m 21.279674,10.720088 c -0.556802,-0.556905 -1.453591,-0.556905 -2.010393,0 l -3.323798,3.323871 -3.323793,-3.323871 c -0.556801,-0.556905 -1.45359,-0.556905 -2.01039,0 -0.556796,0.556906 -0.556796,1.4535 0,2.010406 l 3.323796,3.32387 -3.323792,3.323562 c -0.5568,0.556906 -0.5568,1.453654 0,2.01056 0.556796,0.556751 1.45359,0.556751 2.010392,0 l 3.323795,-3.323871 3.323786,3.323871 c 0.5568,0.556751 1.453595,0.556751 2.010391,0 0.556801,-0.556906 0.556801,-1.453654 0,-2.01056 l -3.323793,-3.323562 3.323799,-3.32387 c 0.556795,-0.556906 0.556795,-1.4535 0,-2.010406 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2394-32-4"
+     style="color:#000000;fill:url(#radialGradient3004);fill-opacity:1;fill-rule:evenodd;stroke:#f4f4f4;stroke-width:1.05018485;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;enable-background:accumulate;clip-rule:evenodd"
+     d="m 2.5250924,16.000061 c 0,-7.4415627 6.0333727,-13.4749684 13.4749056,-13.4749684 7.441536,0 13.474909,6.0334057 13.474909,13.4749684 0,7.441686 -6.033373,13.474847 -13.474909,13.474847 -7.4415329,0 -13.4749056,-6.033161 -13.4749056,-13.474847 z" />
+</svg>
